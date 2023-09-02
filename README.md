@@ -1,5 +1,5 @@
 Text Alignment Utility
-This program provides a text alignment utility that can format text files by applying three different alignment options: flush left, flush right, and full justify. The utility reads input text from a file, processes it, and writes the formatted output to another file. Developed by Nghia Huynh on 14/01/2023.
+This program provides a text alignment utility that can format text files by applying three different alignment options: flush left, flush right, and full justify. The utility reads input text from a file, processes it, and writes the formatted output to another file. 
 
 Description
 The utility provides three text alignment functions: flush_left, flush_right, and full_justify. Each function takes as input the desired line length and the path to the input text file. It processes the text according to the specified alignment and returns a formatted string.
